@@ -1,0 +1,22 @@
+{
+  "name": "guru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guru2711/get-it-to-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guru2711/get-it-to-git/issues"
+  },
+  "homepage": "https://github.com/guru2711/get-it-to-git#readme",
+  "devDependencies": {
+    "prettier": "2.3.0"
+  }
+}
